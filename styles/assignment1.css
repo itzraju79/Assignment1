@@ -1,0 +1,155 @@
+/* nav style */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin: 50px 200px;
+}
+.btn-signup{
+    background-color: #4E47FF;
+    font-weight: bold 16px;
+    color: white;
+    padding: 15px 35px;
+    border-radius: 5px;
+    border: none;
+}
+.juel {
+  text-align: center;
+  background-image: url("../Assets/Hero.png");
+  height: 50vh;
+  padding: 150px;
+  z-index: 10;
+}
+.svd{
+    padding: 50px;
+    font-weight: 600;
+    font-size: 65px;
+}
+
+.btn{
+    margin: 5px;
+    background-color: #4E47FF;
+    font-weight: bold 16px;
+    color: white;
+    padding: 16px 35px;
+    border-radius: 50px;
+    border: none;
+}
+.bannere{
+    background-position: center;
+
+}
+.section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 110px 210px;
+}
+.text1{
+    font-size: 24px;
+}
+.Action{
+    font-size: 42px;
+}
+.Joined{
+    text-align: center;
+    font-size: 38px;
+    padding-top: 50px;
+}
+.Active{
+    margin: 50px 200px;
+    font-size: 24px;
+    text-color: red;
+}
+.text2{
+    font-size: 20px;
+    
+}
+.Thousands{
+    background-color: #E5E7FF;
+    border-radius: 5px;
+    margin: 110px 210px;
+    padding: 2px;
+}
+.ddd{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin: 0px 300px;
+    border-radius: 10px;
+}
+.Testimonial{
+    margin: 110px 210px;
+    text-align: center;
+    font-size: 41px;
+}
+.What{
+    margin: 120px 210px;
+    padding: 5px 5px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    border-radius: 10px;
+   
+}
+.first{
+    background-color: #4E47FF;
+}
+.Ready{
+text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+}
+.employ{  
+  text-align: center;
+  padding: 10px 10px;
+  max-width: 1140px;
+  margin: 0 auto;
+ 
+}
+.bannddf{
+    border-radius: 50px;
+}
+.btn2{
+    margin: 5px;
+    background-color: #4E47FF;
+    font-weight: bold 16px;
+    color: white;
+    padding: 16px 41px;
+    border-radius: 10px;
+    border: none;
+}
+.Lets{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1240px;
+    margin: 0 auto;
+}
+.logo2{
+    display: flex;
+    align-items: center;
+    justify-content: 100px;
+    max-width: 1240px;
+    margin: 0 auto;
+}
+.menu2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 300px;
+    margin: 0 auto;
+}
+.Ready{
+    display: flex;
+    align-items: center;
+    justify-content: 100px;
+    max-width: 1240px;
+    margin: 0 auto;
+}
+.hed1{
+    z-index: 12;
+    margin-bottom: -150px;
+
+}
